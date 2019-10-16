@@ -1,1 +1,6 @@
 /env
+*.pyc
+__pycache__
+.flake8
+.vscode/
+db.sqlite3
