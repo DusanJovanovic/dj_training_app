@@ -3,4 +3,5 @@
 __pycache__
 .flake8
 .vscode/
+*.code-workspace
 db.sqlite3
